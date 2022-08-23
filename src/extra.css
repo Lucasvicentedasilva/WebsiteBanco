@@ -1,0 +1,27 @@
+body {
+    background-color: #00040f;
+
+}
+
+
+.gradient {
+
+    /* Set the background of
+    the text  */
+    background:
+    
+        linear-gradient(to right,
+            #33dce2,
+            #dcdee9);
+    display: inline-block;
+
+    /* Clip the background upto
+    the text  */
+    -webkit-background-clip: text;
+    background-clip: text;
+
+    /* Set the color of the text
+    to transparent  */
+    color: transparent;
+}
+
