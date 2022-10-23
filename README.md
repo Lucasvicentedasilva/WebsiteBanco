@@ -1,7 +1,7 @@
 <h1 align="center"> Banco Moderno #01 </h1>
 
 <p align="center">
-Website de um banco moderno para praticar e aprimorar meus conhecimentos em html, css e JavaScript.
+Website de um banco moderno que criei para praticar e aprimorar meus conhecimentos em desenvolvimento FrontEnd.
 </p>
 
 <p align="center">
