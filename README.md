@@ -18,7 +18,7 @@ Website de um banco moderno para praticar e aprimorar meus conhecimentos em html
 <br>
 
 <p align="center">
-  <img alt="projetobanco" src="src/imgs/projetobanco.png" width="100%">
+  <img alt="projetobanco" src="src/imgs/projetobanco.png" width="25%">
 </p>
 
 ## 🚀 Tecnologias
