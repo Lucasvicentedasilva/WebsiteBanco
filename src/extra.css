@@ -2,8 +2,27 @@ body {
     background-color: #00040f;
     font-family: 'Montserrat', sans-serif;
 
+
 }
 
+#img-robot{
+    width: 669px;
+    height: 444px;
+}
+
+#next-g{
+    font-family: 'Poppins', sans-serif;
+    line-height: 100.8px;
+    font-weight: 600;
+    letter-spacing: 1%;
+    line-height: 140%;
+}
+
+#our-team{
+    font-family: 'Poppins', sans-serif;
+    line-height: 30.6px;
+    font-weight: 400;
+}
 
 .gradient {
 
